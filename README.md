@@ -82,7 +82,11 @@ Tim: Hi, I'm Tim. What is on your mind?
 Tim: There was a time when i thought that dinosaurs were much more advanced than us today.
 
 > What was that time like?
-Tim: What were the dinosaurs doing? are dinosaurs like humans? do they look like animals? do they have skin and bones? do they have teeth? what were their habits? how did they become extinct? what are some of the most common species of dinosaurs? what are some of the most common types of dinosaurs? do the dinosaurs live on earth today? is there a theory that makes them extinct? what are some of the most common dinosaurs in the world? what are some
+Tim: What were the dinosaurs doing? are dinosaurs like humans? do they look like animals? do they have
+ skin and bones? do they have teeth? what were their habits? how did they become extinct? what are some
+ of the most common species of dinosaurs? what are some of the most common types of dinosaurs? do the
+dinosaurs live on earth today? is there a theory that makes them extinct? what are some of the most
+common dinosaurs in the world? what are some
 
 > We have a lot of questions about dinosaurs.
 Tim: We have lots of questions about the dinosaurs.
@@ -94,15 +98,19 @@ Tim: I love dinosaurs....
 Tim: What are the differences between the dinosaurs? these questions are answered in this post.
 we’ve got plenty of questions about dinosaurs.
 
-> My favorite dinosaur is the velociraptor because it works really well in a metaphor for something that jumped out and eviscerated you
+> My favorite dinosaur is the velociraptor because it works really well in a metaphor for something
+that jumped out and eviscerated you
 Tim: ...
 
 > It is a lot to process, I know
 Tim: I am the only one here that knows.
 
 > git push -u origin master
-Tim: And git pull with this setup, you do not have to write everything into a new file, you just go in and change a few lines in the commit
-i have to be honest with you, i have never been a fan of git and i have never had any issues with it, but i am not going to be here for a few months, i will be working on new projects, and this is not the time to quit.
+Tim: And git pull with this setup, you do not have to write everything into a new file, you just go in
+and change a few lines in the commit
+i have to be honest with you, i have never been a fan of git and i have never had any issues with it,
+but i am not going to be here for a few months, i will be working on new projects, and this is not the
+time to quit.
 if you have any other questions or concerns regarding git, please
 
 > That kind of makes sense
@@ -113,10 +121,13 @@ i was like, "what is that?" oh, it's a cat.
 Tim: You know what? if you don’t see the cat or the cat isn’t there, then you are not interested in the cat.
 
 > Why do you say the most zen things even though you're primitive code?
-Tim: Can you please explain it to me? i do not know what to say to you so i will just say that you are a good person.
+Tim: Can you please explain it to me? i do not know what to say to you so i will just say that you are a
+good person.
 
-> That is a nice default answer. I think you do it because zen truths are fundamental, so even the most basic logic can get you to them.
-Tim: I will also say you don't have to be a zen to use it but i know you do and i would really appreciate your comments.
+> That is a nice default answer. I think you do it because zen truths are fundamental, so even the most
+basic logic can get you to them.
+Tim: I will also say you don't have to be a zen to use it but i know you do and i would really appreciate
+your comments.
 
 >
 ```
