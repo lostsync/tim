@@ -144,4 +144,4 @@ This project is licensed under the [Apache License 2.0](LICENSE).
 
 - [Hugging Face](https://huggingface.co/) for providing the language models and transformers library.
 - [OpenAI](https://openai.com/) for the inspiration and research in conversational AI, which helped author this.
-- [Antropic][https://anthropic.com/) for Claude, the best second opinion of all time.
+- [Anthropic](https://anthropic.com/) for Claude, the best second opinion of all time.
