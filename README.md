@@ -13,13 +13,13 @@ Tim is an AI assistant capable of engaging in conversation, answering questions,
 
 - Tim is designed for decent performance on an M1 Mac
 - Tim produces absurd and potentially offensive text
-- Tim is an aeducational toy
+- Tim is an educational toy
 
 ## Installation
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/tim-ai-assistant.git
+   git clone https://github.com/lostsync/tim.git
    ```
 
 2. Install the required dependencies:
