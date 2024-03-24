@@ -12,6 +12,7 @@ Tim is an AI assistant capable of engaging in conversation, answering questions,
 ## Limitations
 
 - Tim is designed for decent performance on an M1 Mac
+- Speech will only work on macOS due to my lazy reliance on `say`
 - Tim produces absurd and potentially offensive text
 - Tim is an educational toy
 
