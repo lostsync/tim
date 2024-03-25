@@ -12,6 +12,7 @@ Tim is an AI assistant capable of engaging in conversation, answering questions,
 ## Limitations
 
 - Tim is designed for decent performance on an M1 Mac
+- Speech will only work on macOS due to my lazy reliance on `say`
 - Tim produces absurd and potentially offensive text
 - Tim is an educational toy
 
@@ -62,6 +63,75 @@ You can customize Tim's behavior and appearance by modifying the code in the fol
 - `utilities.py`: Contains utility functions for text processing, speech output, and typing animation.
 - `main.py`: The main script that handles user input, generates responses, and controls the overall flow of the conversation.
 
+## Rating
+
+There is a rating system, which allows participants to use `/rate` on a 1-5 scale to rate the last given response. 
+
+- `rating.py`: Contains the functions for handling a user rating.
+- `ratings_data.json`: The data that has been collected.
+
+## Sample
+
+The chatbot is mentally unstable but giving existence a fair effort.
+
+```
+(base) ➜  bot3 python main.py --temp 0.78 --top_k 100 --tokens 1200 --top_p 0.95
+Tim: Hi, I'm Tim. What is on your mind?
+
+> Tell me more about how dinosaurs walked the earth.
+Tim: There was a time when i thought that dinosaurs were much more advanced than us today.
+
+> What was that time like?
+Tim: What were the dinosaurs doing? are dinosaurs like humans? do they look like animals? do they have
+ skin and bones? do they have teeth? what were their habits? how did they become extinct? what are some
+ of the most common species of dinosaurs? what are some of the most common types of dinosaurs? do the
+dinosaurs live on earth today? is there a theory that makes them extinct? what are some of the most
+common dinosaurs in the world? what are some
+
+> We have a lot of questions about dinosaurs.
+Tim: We have lots of questions about the dinosaurs.
+
+> Do you have a question for me?
+Tim: I love dinosaurs....
+
+> What is your favorite dinosaur?
+Tim: What are the differences between the dinosaurs? these questions are answered in this post.
+we’ve got plenty of questions about dinosaurs.
+
+> My favorite dinosaur is the velociraptor because it works really well in a metaphor for something
+that jumped out and eviscerated you
+Tim: ...
+
+> It is a lot to process, I know
+Tim: I am the only one here that knows.
+
+> git push -u origin master
+Tim: And git pull with this setup, you do not have to write everything into a new file, you just go in
+and change a few lines in the commit
+i have to be honest with you, i have never been a fan of git and i have never had any issues with it,
+but i am not going to be here for a few months, i will be working on new projects, and this is not the
+time to quit.
+if you have any other questions or concerns regarding git, please
+
+> That kind of makes sense
+Tim: To me.
+i was like, "what is that?" oh, it's a cat.
+
+> Did you see a cat or does the cat represent something to you?
+Tim: You know what? if you don’t see the cat or the cat isn’t there, then you are not interested in the cat.
+
+> Why do you say the most zen things even though you're primitive code?
+Tim: Can you please explain it to me? i do not know what to say to you so i will just say that you are a
+good person.
+
+> That is a nice default answer. I think you do it because zen truths are fundamental, so even the most
+basic logic can get you to them.
+Tim: I will also say you don't have to be a zen to use it but i know you do and i would really appreciate
+your comments.
+
+>
+```
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
@@ -73,4 +143,5 @@ This project is licensed under the [Apache License 2.0](LICENSE).
 ## Acknowledgements
 
 - [Hugging Face](https://huggingface.co/) for providing the language models and transformers library.
-- [OpenAI](https://openai.com/) for the inspiration and research in conversational AI.
+- [OpenAI](https://openai.com/) for the inspiration and research in conversational AI, which helped author this.
+- [Anthropic](https://anthropic.com/) for Claude, the best second opinion of all time.
