@@ -25,7 +25,10 @@ Tim is an AI assistant capable of engaging in conversation, answering questions,
 
 2. Install the required dependencies:
    ```
-   pip install -r requirements.txt
+    conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
+    conda install spacy flask pandas numpy scikit-learn tqdm -c conda-forge
+    conda install pip
+    pip install transformers
    ```
 
 ## Usage
